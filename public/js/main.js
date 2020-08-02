@@ -30,7 +30,3 @@ Promise.all([loadBackgroundSprites(), loadLevel("1-1")]).then(
     });
   }
 );
-
-// .then(level => {
-
-// });
